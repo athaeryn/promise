@@ -17,10 +17,9 @@
     "watch": "rescript build -w",
     "clean": "rescript clean"
   },
+  "main": "src/promise.res",
   "files": [
     "src",
-    "src/promise.resi",
-    "src/promise.res",
     "bsconfig.json"
   ]
 }
