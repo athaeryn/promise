@@ -1,18 +1,5 @@
 {
   "name": "reason-promise",
   "refmt": 3,
-  "sources": [
-    "src/js",
-    {
-      "dir": "test",
-      "type": "dev",
-      "subdirs": [
-        "framework/js",
-        "framework",
-        "isoresult/js",
-        "js",
-        "bundle"
-      ]
-    }
-  ]
+  "sources": ["src"]
 }
