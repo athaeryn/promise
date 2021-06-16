@@ -20,8 +20,8 @@
     "clean": "rescript clean && rm -rf lib promise-* *.tar.gz *.tgz _release"
   },
   "files": [
-    "src/js/promise.rei",
-    "src/js/promise.re",
+    "src/js/promise.resi",
+    "src/js/promise.res",
     "bsconfig.json"
   ]
 }
