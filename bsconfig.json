@@ -1,5 +1,5 @@
 {
-  "name": "reason-promise",
+  "name": "@athaeryn/rescript-promise",
   "refmt": 3,
   "sources": ["src"]
 }
