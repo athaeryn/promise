@@ -16,5 +16,11 @@
     "build": "rescript build -with-deps",
     "watch": "rescript build -w",
     "clean": "rescript clean"
-  }
+  },
+  "files": [
+    "src",
+    "src/promise.resi",
+    "src/promise.res",
+    "bsconfig.json"
+  ]
 }
